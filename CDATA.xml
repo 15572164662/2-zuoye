@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="GB2312"?>
+<class>
+<![CDATA[student information]]>
+<student>
+
+<student1>
+<![CDATA[name]]>
+<name>李三</name>
+<![CDATA[order number]]>
+<number>1</number>
+<![CDATA[sex]]>
+<gender>男</gender>
+<![CDATA[age]]>
+<age>20</age>
+</student1>
+
+<student2>
+<![CDATA[name]]>
+<name>赵6</name>
+<![CDATA[order number]]>
+<number>2</number>
+<![CDATA[sex]]>
+<gender>女</gender>
+<![CDATA[age]]>
+<age>20</age>
+</student2>
+
+<student3>
+<![CDATA[name]]>
+<name>王八</name>
+<![CDATA[order number]]>
+<number>3</number>
+<![CDATA[sex]]>
+<gender>男</gender>
+<![CDATA[age]]>
+<age>20</age>
+</student3>
+
+
+</student>
+</class>
